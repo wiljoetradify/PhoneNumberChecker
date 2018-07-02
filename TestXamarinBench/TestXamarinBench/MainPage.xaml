@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestXamarinBench"
+             x:Class="TestXamarinBench.MainPage">
+    <StackLayout
+        Orientation="Vertical">
+        <StackLayout
+            Orientation="Horizontal">
+            <Label Text="Country Name :" />
+            <Label Text="{Binding Path=CountryName}" />
+        </StackLayout>
+        <Entry x:Name="PhoneNumberEntry"
+               Placeholder="Enter your phone number"
+               HorizontalOptions="FillAndExpand"/>
+        <Label x:Name="PhoneNumberStatus" Text="{Binding Path=PhoneNumberStatusText}" />
+        <Label x:Name="PhoneNumberFailReson" Text="{Binding Path=PhoneNumberFailResonText}" />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,17 @@
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.deps.json
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.dll
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.csprojAssemblyReference.cache
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.csproj.CoreCompileInputs.cache
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.AssemblyInfoInputs.cache
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.AssemblyInfo.cs
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.pdb
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.dll
+c:\users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.pdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\obj\Debug\netstandard2.0\TestXamarinBench.dll.mdb
+C:\Users\wilzone\Source\Repos\TestXamarinBench\TestXamarinBench\TestXamarinBench\bin\Debug\netstandard2.0\TestXamarinBench.dll.mdb
